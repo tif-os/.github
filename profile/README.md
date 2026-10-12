@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/tif-os/.github/main/tif-os-logo.png" width="160" alt="The Intelligence Firm"></p>
+
 # TIF-OS
 ### The AI workforce operating system from The Intelligence Firm
 
